@@ -7,3 +7,4 @@ Implementation of most used sorting algorithms
 4. Merge sort
 5. Quicksort
 ```
+The Implementation will sort the strings in a given file called "words.txt"
